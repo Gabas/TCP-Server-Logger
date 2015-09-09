@@ -1,0 +1,1 @@
+{"contentType":"application/json","requestData":{"name":"Vanilla"},"method":"POST","url":"/greet","HttpVersion":"1.1","host":"localhost:3000","userAgent":"node-superagent/0.18.2"}
